@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import AceEditor from "react-ace";
-// import ShowHTML from "./components/ShowHTML";
 import MarkdownView from 'react-showdown';
+import "./App.css";
 
 import "ace-builds/src-noconflict/mode-java";
 import "ace-builds/src-noconflict/theme-github";
